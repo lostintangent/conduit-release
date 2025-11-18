@@ -1,6 +1,6 @@
 # 🤔 What is Conduit?
 
-Conduit is a workspace manager for parallelizing tasks with coding agents. In practice, this means that Conduit is a terminal, a tiling window manager, an agentic task manager, and a lightweight editor + browser. Ultimately though, Conduit is a toolchain for AI-native, CLI-driven development, that's meant to make it easy (and fun!) to manage multiple tasks at a time. 
+Conduit is a workspace manager for parallelizing tasks with coding agents. In practice, this means that Conduit is a terminal, a tiling window manager, an agentic task manager, and a lightweight editor + browser. Ultimately though, Conduit is a toolchain for AI-native, CLI-driven development, that's meant to make it easy (and fun!) to manage multiple tasks once. 
 
 It takes massive inspiration from tools like Emacs, tmux, and VS Code, in order to provide a flexible workbench, that's built around composable tabs + panes of terminals (local/cloud), editors, and browsers. And it tries to layer on a ton of features that make it feel accessible enough to use everyday (hopefully!).
 
