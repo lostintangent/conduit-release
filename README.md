@@ -50,11 +50,11 @@ Zoom in and out of panes in a tab (w/`cmd+option+f`), so you can seamlessly tran
 
 Hover over any tab and see a **live preview** of its status. This is kind of like "peek definition" for tabs, and makes it easy to parallelize work, while keeping an eye on background tasks.
 
-<img width="1253" height="903" alt="image" src="https://github.com/user-attachments/assets/593b54d2-8533-4f5d-afe3-59652414d233" />
+<img width="2506" height="1806" alt="image" src="https://github.com/user-attachments/assets/b037fd8b-4ed9-4a6a-901f-bb43e1c58ada" />
 
 When you have multiple tabs, you can open a live "birds-eye view" of them all, which makes it easy to observe multiple tasks at once.
 
-<img width="1512" height="949" alt="image" src="https://github.com/user-attachments/assets/7edb251b-1f47-443c-9eaf-0a5189f09053" />
+<img width="3024" height="1898" alt="image" src="https://github.com/user-attachments/assets/2f645be7-2c38-4e7c-a183-b0ef93a011a6" />
 
 ### Editor panes
 
@@ -66,11 +66,11 @@ Add editor panes to any tab, which provide a file explorer + text editor, comple
 
 Perform one-off actions without needing to disrupt your tab layouts, or switching to another tool.
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/57fa6c6c-bbf3-432d-903d-c20ded59eaca" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/72e7dc2e-8ae6-4168-993b-d460096888eb" />
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/29ecc28b-a24d-4732-ab2a-5c079794478c" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/0cafd2d2-a581-461a-8fb1-a1c590d856c2" />
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/64718f54-eabf-445f-bde7-f2f8ae575556" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/5363b5a6-8ab8-4124-864c-865f3ae9f0f5" />
 
 ### Conduit CLI
 
@@ -88,16 +88,16 @@ Create multiple terminal panes, that can be synchronized, so that as you type, y
 
 Save and restore sets of tabs, so you can jump in and out of projects with ease.
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/a1b943cd-d436-483e-b61a-bc66815a159e" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/f44c3317-e1ed-4c8d-8d40-c51a3016f660" />
 
 ### Customizable keybindings
 
 Configure the keybindings that are used for common actions, so you can maximize your flow state exactly as you want it.
 
-<img width="1206" height="922" alt="image" src="https://github.com/user-attachments/assets/ca587508-0457-4c38-92b9-6113f4c6de30" />
+<img width="2412" height="1844" alt="image" src="https://github.com/user-attachments/assets/f93823ac-f2b8-40d5-b557-62a39b9a2e63" />
 
 ### Command palette
 
 Run global commands at any time (`cmd+shift+p`), including spinning up quick terminal instances (w/an MRU list).
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/6deaeb5d-61c1-4c86-92de-517fac83837d" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/797a1483-3169-46fe-b35a-3f5402e8044d" />
