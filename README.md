@@ -8,7 +8,7 @@ To give a better sense of what this means, let's take a look at what Conduit can
 
 Create information-dense tabs, each with a flexible grid of terminal, editor, and browser panes (that can be resized, organized, collapsed, and cloned)
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/ff0be63c-7426-43d8-a3da-b8cc717543ae" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/679b6618-905b-488b-a0f4-b424735b1a9f" />
 
 And once your tabs feel exactly like you want, you can then lock them, to prevent accidentally changes.
 
@@ -16,13 +16,13 @@ And once your tabs feel exactly like you want, you can then lock them, to preven
 
 Create isolated agent sandboxes, by simply spliting new terminals, or duplicating tabs, with automatic worktree management.
 
-<img width="1595" height="1221" alt="image" src="https://github.com/user-attachments/assets/468e504f-4730-4884-91cf-9aae1e24e93a" />
+<img width="3190" height="2442" alt="image" src="https://github.com/user-attachments/assets/4a8f6ed8-73a7-47d5-8549-754c96788110" />
 
 ### Cloud terminals
 
 Spin up cloud terminals and intermingle them with local terminals, so you can parallelize your tasks even further.
 
-<img width="1222" height="921" alt="image" src="https://github.com/user-attachments/assets/b096a992-1c33-43e3-8df6-36f51416c1b1" />
+<img width="2444" height="1842" alt="image" src="https://github.com/user-attachments/assets/aff7e28f-a98f-4732-a2bd-e436f1eb8c31" />
 
 ### Agent customizations
 
@@ -34,17 +34,17 @@ Define and configure all of the coding agents you use, so you can quickly recall
 
 Organize your tabs by creating or removing panes, drag & dropping panes, splitting panes into new tabs, moving panes between tabs, etc. All with a fun and visual editing surface.
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/1c98209d-0f87-43b7-9243-3f4bd189d778" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/59e85f9b-0677-404a-8099-49da0da9ff17" />
 
 You can also configure the radial "quick actions", so its simple to create the exact panes and layouts you want.
 
-<img width="1136" height="880" alt="image" src="https://github.com/user-attachments/assets/be5ba44d-ab05-4545-bbbf-7bcc62a4ae4b" />
+<img width="2272" height="1760" alt="image" src="https://github.com/user-attachments/assets/4f76f9aa-a6c5-4eb6-93c6-772724c2743d" />
 
 ### Focus mode
 
 Zoom in and out of panes in a tab (w/`cmd+option+f`), so you can seamlessly transition between focusing and observing (with a really fun minimap!)
 
-<img width="1630" height="1083" alt="image" src="https://github.com/user-attachments/assets/2b104268-8034-43b7-9bc8-b33540976a97" />
+<img width="3260" height="2166" alt="image" src="https://github.com/user-attachments/assets/7d67d30a-aa43-4526-a387-5c0238ba05f7" />
 
 ### Tab preview / overview
 
