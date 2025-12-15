@@ -1,6 +1,6 @@
 # 🤔 What is Conduit?
 
-Conduit is a "workspace manager" for parallelizing coding tasks with agents, across both local and cloud compute. It allows you to design bespoke development workflows, which are organized as arbitrarily-flexible tabs of terminals, editors, and browsers. Because of its focus on customization, built around a core set of primitives, I jokingly refer to it as a "DIY-DE" 🤦
+Conduit is a "workspace manager" for parallelizing coding tasks with agents, across both local and cloud compute. It allows you to design bespoke development workflows, which are organized as arbitrarily-flexible tabs of terminals, editors, and browsers. Because CLIs and coding agents are getting increasingly powerful, these basic primitives may actually be all that many develoeprs need? 🤔 
 
 To give a better sense of what this means, let's take a look at what Conduit can do...
    
