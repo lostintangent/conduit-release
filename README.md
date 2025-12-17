@@ -62,6 +62,10 @@ Add editor panes to any tab, which provide a file explorer + text editor, comple
 
 <img width="2594" height="1978" alt="image" src="https://github.com/user-attachments/assets/dabb5b08-bc33-4568-bcd3-6d662b224624" />
 
+And because markdown is so central to most devs/projects, the editor pane includes an integrated markdown preview as well:
+
+<img width="1450" height="1023" alt="image" src="https://github.com/user-attachments/assets/4faecc4d-edbe-4aee-ae1a-46a614875976" />
+
 ### Quick actions
 
 Perform one-off actions without needing to disrupt your tab layouts, or switching to another tool.
