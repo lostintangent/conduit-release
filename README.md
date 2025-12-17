@@ -66,6 +66,12 @@ And because markdown is so central to most devs/projects, the editor pane includ
 
 <img width="1450" height="1023" alt="image" src="https://github.com/user-attachments/assets/4faecc4d-edbe-4aee-ae1a-46a614875976" />
 
+### Browser panes
+
+When you click a URL in your terminal, it will open a new browser pane, which allows you to navigate, test, debug, and favorite web pages, without needing to context switch.
+
+<img width="2646" height="2016" alt="image" src="https://github.com/user-attachments/assets/a1bb4d22-1f94-4df1-b7fb-6974a9a76c41" />
+
 ### Quick actions
 
 Perform one-off actions without needing to disrupt your tab layouts, or switching to another tool.
