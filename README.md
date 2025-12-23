@@ -5,7 +5,9 @@ Conduit is a "workspace manager" for parallelizing coding tasks with agents, acr
 Why is this interesting? Because CLIs and coding agents are getting increasingly powerful, and so the aforementioned primitives may eventually be all that you need? 🤔 Or maybe not! It's just an exploration, and meant to be fun.
 
 That said, if you'd like a feature overview of _everything_ that Conduit can do, check out this [reference document](https://gistpad.dev/#/share/654a7ab37a00328334de5826588b124c). Otherwise, the following section provides an overview of some of it's most compelling capabilities:
-   
+
+---
+
 ### Bespoke dev environments
 
 Create information-dense tabs, each with a flexible grid of terminal, editor, and browser panes (that can be resized, organized, collapsed, and cloned)
