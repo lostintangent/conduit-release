@@ -4,60 +4,7 @@ Conduit is a "workspace manager" for parallelizing coding tasks with agents, acr
 
 Why is this interesting? Because CLIs and coding agents are getting increasingly powerful, and so the aforementioned primitives may eventually be all that you need? 🤔 Or maybe not! It's just an exploration, and meant to be fun.
 
-That said, if you'd like a feature overview of everything that Conduit can do, check out this [reference document](https://gistpad.dev/#/share/654a7ab37a00328334de5826588b124c). Otherwise, the following section provides an overview of some of it's most compelling capabilities:
-
-### Feature Overview
-
-1. 🖼️ **Tabs**
-   1. Create (and name!) as many tabs as you need
-   1. Design and organize tab layouts by...
-      1. Splitting new panes in any direction
-      1. Moving and resizing panes
-      1. Collapsing infrequently used panes
-   1. Zoom in, out, and sideways across your work...
-      1. Hover over a tab in order to see it's live contents
-      1. Focus mode allows a fullscreen pane + minimap navigation
-      1. Overview mode allows you to observe all tabs at once
-   1. Lock tabs to prevent accidentally changing them
-   1. Synchronize them so you can type in all terminals at once
-   1. Duplicate tabs, optionally into new CWD or worktree
-       
-1. 💻 **Terminal Panes**
-   1. Split sandboxed terminals into a ...
-      1. Managed git worktree
-      1. Cloud VM
-   1. Clone terminals across tabs 
-   1. Hyper terminals / quick terminal 
-   1. Prompt mode + agents config
-   1. Dotfile syncing
-   1. Repository scripts
-   1. Conduit CLI allows automating the environment 
-   1. Agent teams + launch behavior
-   1. CWD tracking (when splitting new tabs)
-        
-1. ✏️ **Editor Panes**
-   1. File explorer w/git diffs + add/delete/rename support
-   1. Editor w/diff view + file search
-   1. Changes view git stage/commit/push/pull
-   1. Markdown + image preview
-       
-1. 🌐 **Browser Panes**
-   1. MRU history + favorites
-   1. Integrated dev tools / screenshot capturing
-   1. View console errors
-   1. Automation API via the CLI
-   1. Chromeless view (PWA-like UX)
-       
-1. 💼 **Workspaces**
-   1. Save and restore your tabs
-   1. Import and export (shared!) workspaces
-       
-1. ⌨️ **Hackable Shell**
-   1. Keybindings editor
-   1. Customize terminal shell/font
-   1. Command palette
-      
-To give a better sense of what this means, let's take a look at what Conduit can do...
+That said, if you'd like a feature overview of _everything_ that Conduit can do, check out this [reference document](https://gistpad.dev/#/share/654a7ab37a00328334de5826588b124c). Otherwise, the following section provides an overview of some of it's most compelling capabilities:
    
 ### Bespoke dev environments
 
