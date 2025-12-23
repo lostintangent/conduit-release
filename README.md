@@ -1,11 +1,16 @@
-# 🤔 What is Conduit?
+# What is Conduit?
 
 Conduit is a "workspace manager" for parallelizing coding tasks with agents, across both local and cloud compute. It allows you to design bespoke development workflows, which are organized as arbitrarily-flexible tabs of terminals, editors, and browsers.
 
 Why is this interesting? Because CLIs and coding agents are getting increasingly powerful, and so the aforementioned primitives may eventually be all that you need? 🤔 Or maybe not! It's just an exploration, and meant to be fun.
 
-That said, if you'd like a feature overview of _everything_ that Conduit can do, check out this [reference document](https://gistpad.dev/#/share/654a7ab37a00328334de5826588b124c). Otherwise, the following section provides an overview of some of it's most compelling capabilities:
+### 🏃 Getting Started
 
+* Grab the [latest release](https://github.com/lostintangent/conduit-release/releases/latest/download/Conduit.dmg) _(currently macOS-only)_
+* Learn more by reading the [feature reference](https://gistpad.dev/#/share/654a7ab37a00328334de5826588b124c) and/or checking out the screenshots below 👇
+* Follow along with our updates by subscribing to the Conduit [releases](https://github.com/lostintangent/conduit-release/releases)
+* File an issue with any feedback, questions, ideas, etc. 🚀
+  
 ---
 
 ### Bespoke dev environments
